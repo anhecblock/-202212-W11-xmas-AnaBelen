@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    cursor: default;
+
+    h1 {
+        margin-left: 1rem;
+        color: white;
+        font-size: 30px;
+        font-weight: bolder;
+    }
+}
