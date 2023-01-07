@@ -1,0 +1,29 @@
+.btn {
+    padding: 0.1rem;
+    background-color: rgb(4, 4, 4);
+    font-family: 'Popins' sans-serif;
+    font-size: 1rem;
+    color: rgb(244, 238, 238);
+    border: none;
+    border-radius: 0.5rem;
+    width: 120px;
+    margin-left: -2%;
+    margin-bottom: 20%;
+
+    cursor: pointer;
+    &:hover {
+        background-color: rgb(110, 112, 113);
+    }
+}
+
+.img {
+    max-width: 310px;
+    margin-left: 0.9%;
+    margin-top: 1%;
+}
+
+.p {
+    font-size: 1.1rem;
+    margin: 0;
+    width: 400px;
+}
